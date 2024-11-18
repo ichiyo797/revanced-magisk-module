@@ -9,7 +9,6 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = ""
 version = "auto"
 included-patches = "'Change header'"
 patcher-args = "-Oheader=Premium "
