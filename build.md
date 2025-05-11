@@ -1,5 +1,3 @@
-GooglePhotos (arm64-v8a): 7.28.0.754713439  
-GooglePhotos (arm-v7a): 7.28.0.754713439  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
 Spotify: 9.0.36.683  
