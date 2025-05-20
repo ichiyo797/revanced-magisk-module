@@ -9,7 +9,8 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-version = "auto"
+#version = "auto"
+version = "20.19.37
 included-patches = ""
 patcher-args = "-e 'Change header' -Oheader='premium*header'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
