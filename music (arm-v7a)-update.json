@@ -1,6 +1,6 @@
 {
   "version": "v8.10.52 (patches 5.43.1)",
-  "versionCode": 20221030,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221030/music-revanced-magisk-v8.10.52-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "versionCode": 63,
+  "zipUrl": "https://github.com/ichiyo797/revanced-magisk-module/releases/download/63/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/ichiyo797/revanced-magisk-module/update/build.md"
 }
